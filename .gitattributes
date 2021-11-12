@@ -1,0 +1,2 @@
+.lfstest.txt filter=lfs diff=lfs merge=lfs -text
+.lfstest.py filter=lfs diff=lfs merge=lfs -text
